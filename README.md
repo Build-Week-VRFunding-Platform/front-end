@@ -1,3 +1,11 @@
+# This is a Lambda Build Week Project - VR Funding Platform
+
+#### Deployed App: https://marketing-page-git-main.vrfundingtt26.vercel.app/
+
+#### Key Takeaways: https://docs.google.com/document/d/17hslTQDt6ZklUqwz3Tg2cb3GVWP-qv5TGh0yttUPO7s/edit?usp=sharing
+
+#### Project Brief:
+
 Read me for front-end of VR Funding App
 
 API
